@@ -199,3 +199,9 @@ bundle.js.map
 .fable
 main.js
 *.fs.js
+
+# Jetbrains
+.idea/
+
+# fable
+fable_modules/
